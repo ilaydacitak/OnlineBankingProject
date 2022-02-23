@@ -1,0 +1,1 @@
+This program aims to perform basic banking transactions and transactions between customers within the scope of object oriented programming course. Implemented with Java
